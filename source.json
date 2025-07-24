@@ -8,6 +8,8 @@
     },
     "description":"For use with the VRChat Creator Companion",
     "bannerUrl":"banner.png",
-    "githubRepos":[],
+    "githubRepos":[
+        fkrisi11/AnimatorWithKeyboard
+    ],
     "packages":[]
 }
