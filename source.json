@@ -12,6 +12,7 @@
         "fkrisi11/AnimatorWithKeyboard",
         "fkrisi11/MaterialInspector",
         "fkrisi11/MirrorTransformComponent",
+        "fkrisi11/PreferenceEditor",
         "fkrisi11/SDKatHome"
     ],
     "packages":[]
