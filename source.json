@@ -15,7 +15,8 @@
         "fkrisi11/PreferenceEditor",
         "fkrisi11/SaveReminder",
         "fkrisi11/SDKatHome",
-        "fkrisi11/ViewBallFix"
+        "fkrisi11/ViewBallFix",
+        "fkrisi11/MeshBoundsTool"
     ],
     "packages":[]
 }
